@@ -1,0 +1,7 @@
+Add css to the frontends 
+add product crud to the admin screen
+remove toggle for the admin account
+show products for the customer
+allow customer to buy product
+allow customer to view his orders
+add logout for both admin and customer
